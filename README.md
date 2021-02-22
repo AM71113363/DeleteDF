@@ -23,14 +23,14 @@ _others_ <br>
 You already know how to rebuilt it. ^_^<br>
 <br><br><br><br>
 
-# Why RESTORE them???<br>
+## Why RESTORE them???<br>
 _example_ <br>
 You have a GAME folder and you want to save it as a BACKUP.
 Before compressing(or not) the folder, delete duplicate files(Enable RESTORE).
 Later you can run "restore.bat" to put them back where they were.
 <br><br>
 
-# How Same DIR Works???<br>
+## How "Same DIR" Works???<br>
 _example_ <br>
 FOLDERS "A" & "B" & "C" contain the same file "test.txt".<br>
 FOLDERS "B" & "C" contain the same file "image.bmp".<br>
