@@ -1,3 +1,7 @@
+<p align="center">
+<img align="center" width="200" height="200" src="https://pbs.twimg.com/profile_images/1259319883734581250/3tAzevQ4_400x400.jpg">
+</p>
+
 # DeleteDF
 -----
 1. Will delete duplicate files.(only files <= 100MB)<br>
