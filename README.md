@@ -5,23 +5,22 @@
 3. Optional: "Same DIR" >> multiple Scans.<br>
 <br>
 
-# How do I use this?<br>
+## How do I use this?<br>
 1. Run DeleteDF.exe (32Bit Windows).<br>
 2. Drag-Drop a Directory to Scan.<br>
 3. CLick [ START ].<br>
-<br>
 OPTIONS:<br>
 Enable "Restore" if you want to restore them later.<br>
 Enable "Same DIR" to delete duplicate files (including previous Scans).<br>
 <br>
 
-# Build.
+## Build.
 _for beginners_ <br>
 1.Download [DevCpp_v4.9.9.*](http://www.bloodshed.net/) and install it.<br>
 2.Run build.bat (it works only with Compiler:  Dev-C++ 4.9.9.*).<br>
 _others_ <br>
 You already know how to rebuilt it. ^_^<br>
-<br><br><br><br>
+<br>
 
 ## Why RESTORE them???<br>
 _example_ <br>
